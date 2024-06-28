@@ -76,7 +76,7 @@ Mouse.KeyDown:Connect(function(k)
     end	
  end)
 
-local BixieCarl = Instance.new("ScreenGui")
+local Hellbound = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
 local Logo = Instance.new("ImageLabel")
@@ -85,9 +85,9 @@ local UICorner_2 = Instance.new("UICorner")
 
 --Properties:
 
-BixieCarl.Name = "Bixiecarl"
-Bixiecarl.Parent = game.CoreGui
-Bixiecarl.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Hellbound.Name = "Bixiecarl"
+Hellbound.Parent = game.CoreGui
+Hellbound.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = BixieCarl
 Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
@@ -107,7 +107,7 @@ Frame:GetPropertyChangedSignal("AbsoluteSize"):Connect(TopContainer)
 
 UICorner.Parent = Frame
 
-Logo.Name = "Carl"
+Logo.Name = "Logo"
 Logo.Parent = Frame
 Logo.BackgroundColor3 = Color3.fromRGB(100, 255, 100)
 Logo.BackgroundTransparency = 3.000
