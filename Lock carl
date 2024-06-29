@@ -1,20 +1,24 @@
 --[[
-Hello guys I spent 4 days working on this fucking script
+I dont know if this shit works man
 
-Please support me by sharing this shit = {
+I finally know how to make scripts and now idk what to do
+
+Help me make this script famous LOL
+
+extra: PLEASE DONT COPY AND PASTE THIS I WORKED SO HARD ON THIS SHIT:
+local args = {
 [1] = "UpdateMousePos",
 [2] = {
         ["MousePos"] = Vector3.new(-498.8055419921875, 4.6344757080078125, -852.712158203125),
         ["Camera"] = Vector3.new(-498.8055419921875, 4.6344757080078125, -852.712158203125)
       }
 }
-I might make this paid but its just free for now
--Bixiecarl
+might make this paid too heheheheha
 ]]--
 
 Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro2/main/ui2"))()
 local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
-NotifyLib.prompt('Rainbow Sunshine', 'Modified & Created By: Bixiecarl', 5)
+NotifyLib.prompt('Carls Lock', 'Created by bixiecarl.', 5)
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
 local VirtualInputManager = game:service("VirtualInputManager")
@@ -29,7 +33,7 @@ if isTouchEnabled then
     getgenv().keytoclick = "V"
     local tool = Instance.new("Tool")
     tool.RequiresHandle = false
-    tool.Name = "Carl's Lock"
+    tool.Name = "NIGGA LOCK"
     tool.Activated:connect(function()
         VirtualInputManager:SendKeyEvent(true, keytoclick, false, game)
     end)
@@ -38,15 +42,15 @@ if isTouchEnabled then
     player.CharacterRemoving:Connect(function()
         tool.Parent = player.Backpack
     end)
-    NotifyLib.prompt('Mobile V Tool', 'V Tool Has Successfully Loaded!', 5)    
+    NotifyLib.prompt('Mobile V Tool', 'Aimlock Loaded Now go Kill Niggers', 5)    
 elseif isMouseEnabled and isMouseEnabled then
-    NotifyLib.prompt('Pc Device Detected', 'Smite them with V!', 5)
+    NotifyLib.prompt('Pc Device Detected', 'V to Lock!', 5)
 elseif isGamepadEnabled and isTouchEnabled then
     NotifyLib.prompt('Controller And Mobile Device Detected', 'Loading V Tool..', 5)
     getgenv().keytoclick = "V"
     local tool = Instance.new("Tool")
     tool.RequiresHandle = false
-    tool.Name = "Smite"
+    tool.Name = "Bixiecarl's Lock"
    tool.Activated:connect(function()
         VirtualInputManager:SendKeyEvent(true, keytoclick, false, game)
     end)
@@ -55,7 +59,7 @@ elseif isGamepadEnabled and isTouchEnabled then
     player.CharacterRemoving:Connect(function()
         tool.Parent = player.Backpack
     end)
-    NotifyLib.prompt('Controller And Mobile V Tool', 'V Tool Has Successfully Loaded!', 5)
+    NotifyLib.prompt('Controller And Mobile V Tool', 'Lock Has Successfully Loaded!', 5)
 elseif isMouseEnabled and isMouseEnabled and isTouchEnabled then
     NotifyLib.prompt('Hybird Mobile Device Detected', 'Loading V Tool..', 5)
     getgenv().keytoclick = "V"
@@ -76,12 +80,12 @@ end
 Settings = {   
     rewrittenmain = {
 		Enabled = true,
-		Key = "q", -- Change it if you want nigga	
+		Key = "v", -- change the key aint that hard -bixiecarl	
 		DOT = true,
 		AIRSHOT = true,
         NOTIF = true,			
         AUTOPRED = true,			
-        FOV = math.huge,	
+        FOV = math.huge, -- Dont change this shit -bixiecarl	
     }
 }
 
@@ -201,8 +205,8 @@ game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(k)
             if Settings.rewrittenmain.NOTIF == true then
                 Plr = getClosestPlayerToCursor()
                 game.StarterGui:SetCore("SendNotification", {
-                    Title = "nigga where are you aiming at",
-                    Text = "get aim: "..tostring(Plr.Character.Humanoid.DisplayName),
+                    Title = "Unlocked",
+                    Text = "Lock now!: "..tostring(Plr.Character.Humanoid.DisplayName),
                     Duration = 1.5
                 })
             end
@@ -211,8 +215,8 @@ game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(k)
             enabled = true
             if Settings.rewrittenmain.NOTIF == true then
                 game.StarterGui:SetCore("SendNotification", {
-                    Title = "Locked on that nigga",
-                    Text = "Victim: "..tostring(Plr.Character.Humanoid.DisplayName),
+                    Title = "Locked",
+                    Text = "Locked on that nigga: "..tostring(Plr.Character.Humanoid.DisplayName),
                     Duration = 2.5
                 })
             end
@@ -370,4 +374,4 @@ mt.__namecall = newcclosure(function(...)
     return old(...)
 end)
 
-NotifyLib.prompt('TheRealX_ORA', 'Loaded BixieCarl's Lock', 5)
+NotifyLib.prompt('bixiecarl', 'Loaded bixiecarl's LOCK!', 5)
