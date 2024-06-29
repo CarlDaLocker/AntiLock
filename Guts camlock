@@ -89,7 +89,7 @@ Hellbound.Name = "Guts Camlock"
 Hellbound.Parent = game.CoreGui
 Hellbound.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-Frame.Parent = Hellbound
+Frame.Parent = Guts Camlock
 Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 0
