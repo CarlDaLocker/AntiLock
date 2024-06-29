@@ -126,7 +126,7 @@ TextButton.BorderSizePixel = 0
 TextButton.Position = UDim2.new(0.0792079195, 0, 0.18571429, 0)
 TextButton.Size = UDim2.new(0, 170, 0, 44)
 TextButton.Font = Enum.Font.SourceSansSemibold
-TextButton.Text = "Toggle DukeShadow"
+TextButton.Text = "Toggle Guts"
 TextButton.TextColor3 = Color3.fromRGB(192, 30, 30)
 TextButton.TextScaled = true
 TextButton.TextSize = 18.000
@@ -136,11 +136,11 @@ TextButton.MouseButton1Click:Connect(
     function()
         state = not state
         if not state then
-            TextButton.Text = "DukeShadow ON"
+            TextButton.Text = "Guts ON"
             CamlockState = true
             enemy = FindNearestEnemy()
         else
-            TextButton.Text = "DukeShadow OFF"
+            TextButton.Text = "Guts OFF"
             CamlockState = false
             enemy = nil
         end
