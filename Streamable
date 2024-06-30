@@ -17,3 +17,10 @@ getgenv().Silent = {
     },
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CyberPlaysYT/Aura-x-update/main/Aura%20x%20updated", true))()
+
+OrionLib:MakeNotification({
+	Name = "Duke Shadow",
+	Content = "Notification content... Loaded",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+  })
