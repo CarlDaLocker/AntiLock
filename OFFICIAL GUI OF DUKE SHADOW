@@ -259,7 +259,7 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-Tab:AddButton({
+Tab4:AddButton({
 	Name = "Keyboard",
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
@@ -271,7 +271,7 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-Tab:AddButton({
+Tab4:AddButton({
 	Name = "Rightclick",
 	Callback = function()
       		script:loadstring(game:HttpGet('https://raw.githubusercontent.com/BalligusapoTT/BalligusapoTT/main/Leftclickballi'))()
@@ -307,7 +307,7 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-Tab:AddButton({
+Tab5:AddButton({
 	Name = "Rainbow Smite Aimlok",
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox-Scripts/main/Rainbow%20Sunshine%20Aimlock.lua", true))()
@@ -319,7 +319,7 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-Tab:AddButton({
+Tab5:AddButton({
 	Name = "Shiftlock Macro",
 	Callback = function()
       		loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproootest/Permanent-Shift-Lock-Alt/alt/PermShiftlockAlt'))()
@@ -343,7 +343,7 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-Tab:AddButton({
+Tab6:AddButton({
 	Name = "Vascal Silent",
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/VascalSilentaim/main/README.md"))()
@@ -355,7 +355,7 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-Tab:AddButton({
+Tab6:AddButton({
 	Name = "Vascal Aimlock",
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/Sub-to-vascal/main/Vascal-Circle-DotXd"))()
@@ -367,7 +367,7 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-Tab:AddButton({
+Tab6:AddButton({
 	Name = "Vascal Streamable",
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/Sub-to-vascal/main/Vascal-Streamable"))()
@@ -379,7 +379,7 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-Tab:AddButton({
+Tab6:AddButton({
 	Name = "Vascal Fake Macro",
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/Sub-to-vascal/main/Vascal-speed-tool"))()
