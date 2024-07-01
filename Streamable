@@ -1,3 +1,5 @@
+-- Credits to Aura X!
+
 getgenv().Silent = {
     Settings = {
         Enabled = true,
