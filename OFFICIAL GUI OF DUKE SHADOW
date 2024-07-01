@@ -1,1 +1,396 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _FHnwJCxmnv_i = a; end)); return(function(f,...)local d;local s;local t;local z;local a;local l;local n=24915;local e=0;local u={};while e<611 do e=e+1;while e<0x293 and n%0x1ef4<0xf7a do e=e+1 n=(n+636)%35220 local r=e+n if(n%0x1ce8)>=0xe74 then n=(n-0x3a0)%0x9dd5 while e<0x1f4 and n%0x3caa<0x1e55 do e=e+1 n=(n-589)%11479 local r=e+n if(n%0x43a6)<=0x21d3 then n=(n*0x5d)%0x94f local n=29775 if not u[n]then u[n]=0x1 a=tonumber;end elseif n%2~=0 then n=(n-0xdc)%0x3624 local n=21298 if not u[n]then u[n]=0x1 t=function(t)local n=0x01 local function u(e)n=n+e return t:sub(n-e,n-0x01)end while true do local e=u(0x01)if(e=="\5")then break end local n=l.byte(u(0x01))local n=u(n)if e=="\2"then n=s.Ott_yyHb(n)elseif e=="\3"then n=n~="\0"elseif e=="\6"then d[n]=function(n,e)return f(8,nil,f,e,n)end elseif e=="\4"then n=d[n]elseif e=="\0"then n=d[n][u(l.byte(u(0x01)))];end local e=u(0x08)s[e]=n end end end else n=(n*0x3a8)%0x683c e=e+1 local n=31870 if not u[n]then u[n]=0x1 z="\4\8\116\111\110\117\109\98\101\114\79\116\116\95\121\121\72\98\0\6\115\116\114\105\110\103\4\99\104\97\114\104\104\117\87\114\74\67\112\0\6\115\116\114\105\110\103\3\115\117\98\90\90\97\68\74\66\105\109\0\6\115\116\114\105\110\103\4\98\121\116\101\115\104\98\77\87\120\73\76\0\5\116\97\98\108\101\6\99\111\110\99\97\116\99\116\107\76\121\82\105\117\0\5\116\97\98\108\101\6\105\110\115\101\114\116\106\117\82\84\74\72\101\88\5";end end end elseif n%2~=0 then n=(n-0x1c9)%0x970 while e<0x1d0 and n%0xe92<0x749 do e=e+1 n=(n*516)%7109 local t=e+n if(n%0x212c)<0x1096 then n=(n+0x37b)%0x25a2 local n=14648 if not u[n]then u[n]=0x1 l=string;end elseif n%2~=0 then n=(n*0x2db)%0xa66a local n=3927 if not u[n]then u[n]=0x1 s={};end else n=(n-0x3d1)%0xb8ca e=e+1 local n=95908 if not u[n]then u[n]=0x1 d=getfenv and getfenv();end end end else n=(n-0x3d3)%0x19e5 e=e+1 while e<0x258 and n%0x451e<0x228f do e=e+1 n=(n*861)%35837 local t=e+n if(n%0x3306)<=0x1983 then n=(n-0x22)%0x848e local n=81157 if not u[n]then u[n]=0x1 end elseif n%2~=0 then n=(n+0x60)%0x6cba local n=1205 if not u[n]then u[n]=0x1 d=(not d)and _ENV or d;end else n=(n+0x115)%0x9e3a e=e+1 local n=73513 if not u[n]then u[n]=0x1 end end end end end n=(n+361)%8654 end t(z);local e={};for n=0x0,0xff do local u=s.hhuWrJCp(n);e[n]=u;e[u]=n;end local function r(n)return e[n];end local o=(function(z,t)local f,u=0x01,0x10 local e={{},{},{}}local d=-0x01 local n=0x01 local l=z while true do e[0x03][s.ZZaDJBim(t,n,(function()n=f+n return n-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""u=0x000 break end end local d=#t while n<d+0x01 do e[0x02][u]=s.ZZaDJBim(t,n,(function()n=f+n return n-0x01 end)())u=u+0x01 if u%0x02==0x00 then u=0x00 s.juRTJHeX(e[0x01],(r((((e[0x03][e[0x02][0x00]]or 0x00)*0x10)+(e[0x03][e[0x02][0x01]]or 0x00)+l)%0x100)));l=z+l;end end return s.ctkLyRiu(e[0x01])end);t(o(133,"5pmVgQ:}G+/Bfk6FGe"));t(o(154,"hery{3;cb!U5&PkV;;PrU3o&c:&Pyb!c!U;zPcy3!kP!{;U{y{Uek5;3P)&brV_}3!5Prk!{V;3yUcyc!3V;;y!&5Vr!VU;r5VrU!;kk3;&{=y!rkV;yUU5br{Vc3k&reVbUk!kP55e3bkky{k5d,;35&3rU5!r;;5c&k;53,Vbbkrk35redccVg{k!5V{c&P!3rb!k5c{cbk;5yW5bqPVyP5rC3ckPeybUb cc3&V{e!{k&c5UVryy&U33U&VyyUUF5c{!5rsbyk{3c5brybek5=r;b{e!eVVc*5ryr!3A3;!&!e;Uy!{V!!cee!;kV355Vyc!!PUVb;ry{!3VV;;&Urc!rVe3rU!r&!!Pyy;&5rkrSb5;g5yeUbUk!Vm&3r{b&ky{55!VPbck;3&53M{cUPFkb3Fr3b{k&{yU5e!b5k{{cU5ey3{k;{e{bUVb7kb{35ve&;r&&r3brkc;^5Py_{rUUcPP3{rUe73c&PUe&bke3c&5{{b!e!kTbPcyeUUJ{:c&kyUUy}!crP{ewbrP5cbU;r{Ur!5"));local n=(-1582+(function()local t,e=0,1;(function(e,n,d,u)u(d(e and n,n and n,n,e),u(n,e,n,e and n)and e(e,n,n,d),e(d and n,u,d,u),u(n,n,n and d,u))end)(function(d,l,n,u)if t>453 then return n end t=t+1 e=(e*899)%28892 if(e%584)>292 then e=(e+558)%32763 return n(u(d,u,d,l and n)and u(d,n,u,n),d(n,u and n,u,l),u(d,n,l,d and l),d(n,u,n,u and n))else return u end return n end,function(l,n,d,u)if t>198 then return n end t=t+1 e=(e*676)%3157 if(e%1558)>=779 then e=(e+448)%38651 return u(d(u,n,u and u,n and n),l(n,n,u,d),d(n and l,n,l,u),d(l and d,n and n,d,u))else return n end return l end,function(u,d,l,n)if t>416 then return d end t=t+1 e=(e*722)%21236 if(e%1632)<816 then return l else return d(l(n,u,n,d)and l(d,l,l and u,n),u(d,u,d,u),u(n,l and u,d,n),u(d,u,n,d)and n(n,d,n,n))end return n(d(n and l,u,n,n),u(n,d,d,n)and u(l,n and n,n,l),n(u,d,d,n),d(n,u,u,l)and u(l,d and d,u,u))end,function(d,u,n,l)if t>381 then return u end t=t+1 e=(e+437)%16850 if(e%1800)>=900 then e=(e*291)%37758 return l else return u(n(u,d,u,l),d(n,l,l,u),n(d and u,n,n,n),u(n,n,n and d,u)and n(d,d,u,d))end return u(n(n and n,l,n,d),d(n,n,n,d),n(u,u,u,n),l(d,l,n,l and l))end)return e;end)())local en=(getfenv)or(function()return _ENV end);local r=s.wjgegBnc or s.ImfviRbR;local z=4;local d=2;local _=1;local t=3;local function j(b,...)local h=o(n,"vzG<5%)-YZ>u^TnKZG>5K)5YZ^+><nZ;nGYGK%5^Z<nG<-Y<T<<Y-KT-GYG^^zzK-.^YAu))un^>z^)nuG<=>%nZ<nZznGTGGn-5^)zY>TGu-^^)zu)uZ^z-))u1x<)G55>%n)<YY><GYKK<<%Y%nGnY)TnP<p-%^<Gz)-u>z))z%w>5KG55Z)G>><K>5G<GY^T5G)-Yz--TTZG%)Z^TG5)^^ZG<yw%)>GK55)nnGuYKTzGz-nY)nzGY->^^-%TK<ZY<Y)Ku)u^Z^n%)Y5>)*<5YZ>n^ZTT)G>>GKTGG)TK5<uYnnYG<-K)>^zM^%nul5<uTz<)5uZKK%Z5G>-n5<)YYGTZ-K-zzZ=nYGK)5TZzK-ZYQT>%n-)z^)Z)^nT%n)uZ)K*<YY>T^)Knn5)YTZ)z5YZ^KGZY<)5un:)%Y>>%G>Kz<%%>%+G.Y-TnT5u<GY)T5G)-Yz--TT-Gnz5)nu)NY%>Kn)-u-H>)Y>Z=5%<ZKKZnG<>Y5T)GYuTGTY>T^G5-%^ZG<I^Y<>ne/%GKY%nuzbT4^>5KZ5nZZ>)5KYunKnnZSn5<<Y>^TzTY9^<z5GG^uUK)^uGu^<u>Kxz%GYZnT<T5^T5}<G5-n^)zY)>GY-T^zz)--^>z>)<u>s%KG5TZ5n)<YTG5%ZGn%GGZ)Tu<%Y<nzGuzG)-u5V)%YK<)Z>K -%-5)Z>nY<>Y^G-Z<Kz5GGYu%^>z^)nGYY)TYG)-uZ5TuGT^G;<)u-5KK%<u.K)%%Z5KZ5ZYTn^GKYTTn<)-ZT5G^<YuKzT)TYzz-%nu5KK)5u%Kz%5ZZu%G-Z^n%<TYn>z<z--TzGY<uTzzK--^)tZ%T5TZTK1%5ZGn5<)T><uZ>nG<KYKZ5O-YuTTT^)z^Zzn)Z^5z^%uu%duKG%BZ5n)<Ynk<T>zn<<<Z&Z)oZY<TZG>-K^%zKwY))>>K^5nnZ)j>>KK%)><a75<%_Tu<ZYKn5Gnzn-Z^XzG)5cG--uTMT)>>4an%%uKKT%^<n>%n6<GY55YY>KGGTZzn<G-YY^Kz^55YuTT<5Y)T^GZ-u^nGz--^Zz><)YTTYG>-^znY^T<<T-uT>GT9n))uCtG%5Kz%T^<Kn%T>z:55Y<YZYT>G^-nG>ZznzGYYz^KT^5K^nzu-zu-z^)<uuR^KG5ZZ5n)<YT-<TZZn%G)Y%TY^>zn)^unzDu)zT-<uT>^1)5n>BKGZ-KK%5ZKK>%G%?^<<TZ<->T z^)n^a)<Y5G>--^ZzYJz%_>5KT5)ZYn>-TKG55-5KZ5>Z^nZ<>GE->^Gz5)),u)uTGz<5<^zzG%^uz?znn5YZ?nG<5^-<^Yn^K<<Y<n)GTY%T)u^zc%nua}G>GJ-)%>KZnKG5NZGn5ZTnZ5-ZzY#TTGG-5^))n^uGK-z^zznG5>Zzz))uzC^)555ZZn)<YY>GYZTn<<TZ--YTYz>)^un%T^<zK)u>)zZ-qu-V)%u>-K-%^><Ku5^<GYZT5G)-YOTYuT^<5--TGG>p>)G>^Kn%=K%)u>-KK%->uKG5%<5Y^T)GY->z>Z<TuG-Y)^nGT)^%nuG;w%G>5<uu)jK%Z5hZznG<5Y)zuG^Z%^nG#-GzzY%T-GY%K^<z<)z>-z>)>u<=>%%u<T>5TZ>n^<KZ>uK55Z)n)^YzK)>u^pn>uz--TZZz-%nuzZKK 5GZ5n)<YY>K4)nYGn>G5-)^Y))TuGz-uT%T55^^>zZ)Z)nnK))>^Ku%>%>T^5<>GK%5<Z5nu^^G<)n^3zG>-z--%^)zu)zuu>5Ku5)ZYn>Y5NG%5>G^u<uZ^-^T>zn-C^G))^-G))n^uzuGJ>%3-)Yuzp>)?uzZGnT<5Y)TY)nKz<ZY%ZGz--n^Zzn-uT%uGN)%5>)KYZ<U>%-u5Z5n-<)YYT>-Kn<55G5YG^)zY)>D#)K>YGz-<u>^Y5T>Kz}%ZuGAY%Z<>Z%T^GnYgGGZ)Tu<%Y<nzGu%KTVGR-K%>unK^5n>U55>%KK%)Z^Ku%%%cT%5zYKn^GK<^>KGZ-KT_G%-<%^uuKn%I>G5->n(z%+u7K>5KZ%nKK)-%TuGKZ!TK^5G%))uY=>uG!K-<u%(%)G)Yn75T>ZK%lGYzn-<uZ^nuT.GZ-G^5z)u-G^-%^Tzn%)uZzZ)^5>uDnn5VZGnY<)YYT>GnYYT?GG-5<GY-^uGBYzT5G5)T^5sKK^Z5ZnKA5GK^%>>^K>5K)Y>KizZ)T-<K5YT<G-Y5^>GZ)Y^TzT)z^ X<)zuGC>5T>Y{cr^Z<Kz5z%%uuGuYnT>{5-<ugG%)u^%zz-:-Kn<)Gu>fz<)>uKz5u)zKz<-ZznYKu)>TKG%-KYun><>uK/K-Gun>)KT5YZ>n^Y)F5%)>5^T<TZn-nTGG/-G^5-T^ZG--z%nubmG%5>)RE5>Z^nn%G^5n5<)YYTuG^-nTi<5YY^)zZ)>^pSn){uGG5%>>YKu5^ZKKN5%Z5KY5zY>TKGnYGTGG5-)^Y<-)^uKzl)%u5c)%Y>>Kn5n>XKG55Z)n><>Y^KY<WYGT5G--Y^uz^)nG<zG)5u)JZ%>>^Kn%5>GK55)Z>nn<^Ynn ZZn%5<YT-^z%zn-o^G-^T>G^->^KnYGKYzz)%-uK^Y%<>-955>>ZnY5TZTnz5.Y<nz<GY>^TGYY:Y^z<-z^zT%5KuZz<%T)TnG%<ZTKz2ZY<nT5-Zz>z<^5>Z-Gu-nYKzK)%uKz)GZ><kT)-uzU>zY>)nu5>YKnT<<ZG-YTGz>)^un-^Tzz%)>^uzn)nu-Mn%Z5)ZTnY<>Y^G)>5K)55)TTT<nz^)n^6zG)5unDY%>>^zmYG>GK55)Zun><^YnKG<YY5T-GY-u^^zn-FnGGG))uZr>%T>nQ5%Gu)}Z5YZTn^5QZ1nG<5Y)K<G>-T^nG<-G^5z))YT-R^%numIG%5>YKY5>Znnn5rZGn%<)YZT>G^nzTtGG-5^-zY)>u^z^)juGE5%->YK>5^ZnK95GY5G%<>Z<T^GnY1z%Y^T-<>-u^K<G-%T5u)hT%Y>>K^>kz%)cY%l5%z>-YnnG<pYGT5ZTTZ<<Z,-F^YzG)5u)%#^KzZ%Kunzz%T>>Z>Kz<^Ynn7YGK(<->zTK<nZz-G^Tz5))uY5u^>z-)Tu<zY%Ku-xY<%>GZGn)<5Y)TY-5Kz<uZ_-5^Kz))Yu>%Y^Tz<)<^JK))5>uz%%<uGZ5nY<)YYT>Z<TK<TY---^)z>)Tu^On){G5-Z^5>>Vz5^ZnKcY<=G5K>%nu%+Z<YGKuG5-)^YYGnS<GYWZ^n<<%^KGz-<-^zG)z>)QG%-uGu>5zZKnK/<Y-nu<TYznGnK%z^Tz>5%Z&TT<5YzTYG--^Txz^<^Ynnr<GY5nZGY->^^<1T3^Gz5))^G&>%^>nG2-T>5K)5YZ>n^55Z/QG5ZY)TYG>-^^nGZ-Gn5zu)Yu>(^%nu1:5%5^)i)5>Z^nn5fZGKz<)>Yn%G^-KT/GG-5TGzYY>unan)zuGR%%)>uK>-^uzK05<Z5nT<YZYT^5lnsTGG%-)TGz>)^un<3Yuu54-%Y>uK^%5>ezG%YZ)nZ<>YTTn<ZYGK55z-Y^uz^)K^{z5)5T)zY%>>TKn%z>GKZ5)^Y}-<^YKnD<>Y5nzGYY^n-zn-z^GzY))uYE>)n^z!m%5>5K-5YZ>n^<nZ-nG<%Y)T>G>-T^nG5uZ^5z))Yu>V^%KuELGu->)KY5>ZTnn5_ZGnZ<)YYT>GnY%TQGG-5HnY^TnG^%%^%G)_)%>>YK>5^4%%z>KKZnY5GY>T^Gnn^5zY%T><uYnTnG--n^Zu)#^%Y>>K^^zL<)5>T8)%^<^n%Tn<3YG<^Z>n^<>YK>YnK5zT)z--KYYz<)-^51>)Z>Y.T%T>z1P5<>zKG5>YTnY5J5^T<<zYzZ%C>Y<T)GY)<u>sT))uu^Z<Ku<KG%)><TY%z>5K)<zYYTu<5YZZ-G-)T^-zn<z>)zK-G^5KK%)>ZJG%-%uu>E>-Kn-<^Y-nG<><TZ^n^)K^ZzK<G%)>YK>5^ZnK>5GZ5n)5>Z%T^GnYhT)G5-)^Y<>-TunzS)Gu5y)%u>>7n%->!K555ZYnY<>Y^Kn5<YGT)G)->^>zT)nTGz<)5u>_Y%K>^Kn%o>GKK5)ZTn><TYnnl<GY5nKGY-^^^G<-9^Gz5))m%g>%^>nla%G>)K)5YuYn^<nZ?n<<5Y-TYG>TK^nGs-G^%z))Yu>zQ%nu8!G%)uMKY5>Z^%>>KK<5Y>ZK^5^Z%n^<-G5-Y^)zY)>G<)K^Tz-:)%T>YK>5^n))5u)h5GTZTKnTnYzYLTGG5Tn<^YnT^<z5>Zzn<-YuZGzG>u%mZ))>^wu5>>KKK5<>Gn%5<Z5n^GKY>nGnn-%T<G<<-uuzh-5^Yz^%Tu^29%T>)KY55Z>K^<nZun<<qY-T)<YY-^nn---^uzs)uu-zT%Yu-Ku%n>GuK5KZ%nK5)%ZnZGKYZngKGY>n.Gn9^%nut:G%5>KKY5>Z^a(-YZGn5<)YZT>G^-nnGG)-5^-zY)^u^sn)?TGz5%)>ZK>5TZnK<5G>)K<<YYTT^<GYCTGG5-)T^z>-=unzz)Gu5S)%YuuK^5K>+K)55Z)nY<>>%Tn<+YGT5G)->^>z^Y^^qzG)5u-!Y%u>^Knu<>GK55)ZZn><^Ynn5<GY5T)G>^T^^zn-+G>YYT>GY-TZ)TTGK^5A%)T-)ez%%uGKY%-Z)Ku5uYKnn<zYKnX<Y-uT)Gn<>^zzK)KY<nZ%Zu^8Y<G>zTn%<ZZK<<KZn>TzzZWnYGK)5TZzK-ZYKzK)%uKz)GZZ{K<<uY-uZzY)YTTG5)K^5Gz-uZuK>5>uKD-%^>-DG%>%>uzK^5n>e<>uYM>%YYzKz%G<GY^T5G)-Y<)Yu^KG5Y%TYGY-z^Yz<t3%5>GK55)KK5u>ZK<n+<GY5T)GYYG^^zn-_T55)))uYS>%K>n7{%Gu)+K5YZun^5GZRnG<5>)n<G>-T^nGz-G^)z)->Ty4^)zuba<%5>)KY5>>%nn5zZGn-<)YYT>G^YnTIGG-5^)zY)^u^7n-TuGf5%)>ZK>5TZnK8>%Z5n)<YYuT^GnY}KGG5-)^Yz^-)unzg)GGI-%uZ?n)K^GzG%uuGKTn><nY^Tn<hT)5<Z%n5^^)>)n^szG^^G>-^^>zK<Y-KTz))>-IKzY><K-%5Z>KZ<YZTnT<zZxT<<zYGT>zT-YT,T^)<^zzzG%Z<E<%>>>K%5u)<^>%zZYn%5zZ<Tu<zY%Z-G-)T^-zn<z>-pZ)>u<=^)Gu<^zG%>znZ5)Z%^^<KZ)TTG^5)T)<z)K)Gu>25%)>Y-5^)zYz<-G^5z))ZY^TTGnYRTG-%-YTJz>)^un%ZT+G-->uZzY%Ku<>GK)55Z)nYuznT5->5Y5TuG)-Y^>Y<T<<5-Z^ZG5-n%^uAKn%S>G5G>-h%5K<nZ<n;<GY5G>Zznn<YY<-G^Zz5))uY%GT#GG-yZZOZ)>5>>zn^<nZ*5%><K55)YKTK5GGG-Y^5z))Y >)TTSz%-J^Y>YKn5>Z^nnYnNz%YZKnn%<GnY%TiGG-5z)Y5^u<%-<TGG%+))->YK>5^zG%Y><qY%Z>)KZ%0Zunz5)ZYZZK>%qZ^K&zzK^5TZKKz5<Z%z-TKK55^Z)nY<>Mh5<Z^n-55Z%n><nzn-z^AzG)5G5)TTz>n;G%*>GK5>TKZ%->zZCn><GY5T)Z<TK5%ZGTKG%Yl^Kzu-%%nuZsC%G>55Gu-KT5T>>nD5nZ%KK<TZ^-nTZGA-G^5%>^TGT)KT,zZ-G^YWK)-uYZnK)5BZGn5-YnZ<TZ-nn<zY%TK^YGR)>u^Sn>-z--Y><z-)KuKM<KG5-Z5n)<YK-5u><K<<-G--)^>G<)^unz*><z-->^zG+%T^Gs%%)5)Z>nY<>Y^%GZKKz5rGYY)^>z^)nzG--T%Gu-z^^zz-zZYC<)G>>!55K<nZ)nS<GY5z>ZTn^GTZGTZ<zYG)-uY?>%^>nC+%G^Y<)5YZ^n^<nZ+Kz<5Y)TYG^Yz^nGe-G<zY%TTGT-z)euzfG%5>)%z5^><nn5pZG<5>GnZ%<ZzKN5<G5-u^)zY)>zG-<^<G)-<^YTuK^%%ZnKo5GT-5nZZK^<TZzK5<-Z)-Y^uz>)^un%Y^uGY?Y%Z>>K^5nK>K55%Z)nY<>n5nl<5YGT5G)TKGuYZT<^GzY)5u)qYZTKG-Cuz_K%Z5YZun><^Yn5nZ-KuTY<Y->^^znuY<-Yz^-G)-Z^%zG%G^zz<)>ZYKu%nuGZznG<5Y)TYG>-^TG)S-5^Kz))Yu>%Y^Tz<)<^BK))5>uz%%<uGZ<n5<)YYT>G^-nTLGG-5^)zY)>u^G%)OuG#5)YTuK>5^ZnKz5GZ5n)%Y>%T^GnYiTGG5-^^YG^Yzunzz)GuY3)%Y>>z^)5>rK<55Z-nY5%Y^K_5TYGT)G)Y-^>z^)nTGz%)5uZoY)->^Kn%Hu5K%5)Z^n>5uYnn3<GY5<uGY-u^^GG-p^5z5))iT!>%^>nD3%G>%K)%>uIn^<KZ0n^<5Y)TY5>Yy^nGz-G^%z)-<u>G^%Kuy*5%5>)KY%GZ^En%GZGn-<)YYT>Gn-nKt<u-5^>zY)>u^z%)IuGz)%)>ZK>%kZnKG5GZ5<><YY>T^GKYcTGG5YYKnz>)TunzZ)Gu5i)-Yu>K^5K>iK<55ZZnY%>ZKTn<zYGT%G)Y)^><^Y,^iz<)5u-RY%K>^zn)Y>GK%5)ZZn>5YYnK4<>Y5T-GYY5^^zn-q^GG>))uYw>%T>nAD%G>ZK)5YZ>nn%zZwnG<5T^5zZ^K=5<YzTncTY5TYGKYN>uzz-Ru%.T%Tu^ZnK>5PZGn5YZnT5YZJ^Z<%ZuuZ<^-TTY<8z7)5uG25%),K%uuZF<KG5^Z5n)<YK%5z>-K55zY-nG<z-TT-^Nz-)Gu5_)^u9K)n^5EZ%%>ZZ)nY<>Y^Tn<uYGT5G)Y>n5z^)n^Pz%)5u)_Y->^oKn%s>GK55)ZTn>5nZ%n1<5Y5T-GY->^^zn-<^Gz5))u>A>%n>nG/%Z>5K-5YZ>n^5/Z,nG%{Y)TuG>-T^nG1-GT)G^)Yun7^)Gu 9G%5>)5Y5>>znn54ZGn5<)Z><>G^Y5T9G%-5^)zY)>KK0n)zuG}>%)>ZK>5^XzKF5GZ5n-<YY>T^-GYETGG5YYz<z>)^unzY)Gu5B)%YuZK^5n>,K<55ZYnY)>Z#Tn<DYGnZG)-T^>Gn-c^rzG)5u^sY%>>^zn))>GK55)ZYn>5KYnKG5kY5T-GY-^^^zn-F^GGn))uYo>%n>nWG%Gu)aZ5YZ>n^%uZHnG<5ZYJ-G>-^^n<T-G^5z)ZY^>c^%nubGp%5^zKY%^u%nn5qZGyz<)YYT><nY>TJG<-5TuzY)>u^zn)YuG}5%)uzK>5TZnPG%uZ5n)<Y>-T^GnY1KGGT-)^Yz>)^unG^)GT5zu%Y>>K^5n>OKn55ZYET<>YnTn<zYGT5G)-Y8Kz^)n^:z5)5u-;Y)^uTKn%/>Gzz5)ZYn>5n>znF<<Y5n>GY->^^<n-%^Gz%))uZ/>)u>nG7)Z>5K-5YZun^%5ZI G55Y)TZG>-T^n<Y-GT5G%)Yu>(^)uu+h<%5uY%Y5>Z^nn5-ZGn5<)Z>nMG^-KTF<<-5^)zY)>TGWn)WuGP)%)>ZK>%n>uKf5GZ5n-<YY>T^5CZZTGG%-)T^z>)^un<P-%u5N-%Y>uK^%Z>cO55^Z)nu<>YKTn<AYGT55z-Y^uz^-z^BzG)5u)%%%>>^Kn%_>GK)5)ZYz5<^Ynn?<<Y5TYGYZ>T)zn-z^Gz5))^)Q>%^^Z1J%5>5K-5YZ>n^<n>5nG<-Y)TYG>-K^n%eYz^5zZ)YTz.^)nux<G)n>)Ku5>>)nn55ZGz5<TYYTTG^ZTTw5G-5^)zK)>unhn)GuGy%%)u>Gn5^>aKQ%)Z5n)<Y>>nGGnYGTGG)-)T-z>Y^TYz0)5u5bY%Y^aK^)n>zKG5)Z)n><>>%Tn<=ZYT5GY-Y^^z^-H^_G5-Ku)D>%>^)Kn%8>GI)%>ZYn^<^Z5nI<GY5K))Z->^nzn-G^GG-))^>Gu%^uzM9%5>5K)5YZ>d5<nZGnG<)Y)T>G>YnnZGy-5^5<<)Yu>f^- u)_G%)>)z%5>Z^nn-BZ<n5<YYYKYG^ZZTm<5Yz^)z>)>TZgn)8uG<5)Z>YK^5^>-K=%5Z5KYZYY>TnGnZTTGG5-)nY%u)^^3zS)5u5GG%Y^>zz5n>GKG5)Z)K5<>YnU<<cY)T5G)-Y^>z^)nX%zG))u)=^%>>TKn)G>YK55YZY#-<^YnnJ55YuT)Gu->nhzn-p^G<5-)uY6T%^uz7f)z>5z)5ZZ>nK<nZ<nG5>Y)KY<Z-^TzGl-%^5Gn)Y^>zz%nuGeG)z>)Ku5>Z^%z5_ZGn5<-YYT>G^YGT&GG-5^Y)>)>u^!n^YG)-Y^)zu<5-u^T)G><2uz5ZKK<%FZ)K%<5ZZnZGTY^^KGT-nT)zZ-5^^TY%KuToTGzYuoT5Z>>Ku%NZKn55{Z%KoKZ)Kn<GG<KTYG%<%T:FT-zu<x<)x-%H%5u>%K^!KYYn%5ZYuTu<Y5un<<G-Z^uz^<-T3zT)Kun>)KT5YZ>n^Y)f5%)>5^T<TZn-nTYGe-G^5YGT-zu-sTzG5-5uTz5%K5^>_nn5dZG5uZ-K%<KG^-nTtGG-5^nzY)>u^G7ZGuG?5%)>uK>5^ZntG5ZZ5n-<YYnT^GnY.KG5i-)^Zz>)TunzG)G^)z)%Y>TK^5K>EKG55Z)KZ<>YTTn<<YGT5G)-YT-z^)n^2zG)5uYpY%>>TKn%_>GK%5)ZZn><^Kzn6<GY5T-GY->^^GG-/^Gz5)YuK}>%^>n5Y^)zY))YKKK)}5AZ>nG<5Y)55ZZTT<GZ<n)<)-KT)Gzjn)GuUFG%5&T%Zu-{zKFY^ZGn5<)Kr5n>Vnn5<%^><K%Y>^u<<<^^-zu-YunzT%^^zzz%%u5K-%%>)Kn5zZ^K5pIY-n%<%5ZTYG<YG^TzZ-Y^%tK)n-TB^)->%^<%Y>^Ku5YZ%n%5YZZ>-<--Tnz<5--T)n%%uTzET)%ZTzz%Y>unnz>)^^1n_<GY5T)GYYG^^zn-rT55)))uY}>%n>nbI%Gu)DG5YZun^5zZVnG<5>)nuG>-T^nGz-G^%z)->^<l^)zubh)%5>)KY5>>>nn5zZGn-<)YYT>G^ZYT0GG-5^)zY)^u^on-)uG_5%)>ZK>5TZnK;>%Z5n)<YYuT^GnY7T)G5-)^Yz^-OunzJ)Gzu)-^%UKKn>G>VKG55Kn%^>nK^%z)>uzq<ZYTZ5z5>T%GZY)^^Gu)>^KzK)<^G?%)<u5(^5K>>PGLnZ%K<5<%-^z5<-Kn(<zY)T%z>-)^uG)GK>%zZ%Y-%_n%u)u1)5<>-nZ<ZZ)>u<uYzTu<G5%unzu-K^zzz)nYznZ)zu^KK%>>%uKGY>%K^<GZxYIT-GG-5^))XTn<_-n>-z--Y%YuGK>5^Zn%^uzK%5>>uKn5nZ-nn<ZG5-)^Yz>)^^)zU)Gu5zYY>>>K^5n>5KG55Z)K><^Y^TK<0Y<T5G)-Yn><<)n^zzG)%u)0u%>unz%%U>%K55YZYn><^YnKG<GY%T)Gu->^^zn-VTZz5))uYt>%^ucak%GuTK)5YZ>nT<nZznG<5nZTYG>-^^KG,-G^5z>)Yu>1^)7K-hG%5>))+unzC%nu<^^z<)%K><u><>^<-YunYGnYT^^<zYz^%G5)-^%z))nuzM^)5-tK-%%>%uZG<>%nz5GZ<nY<--^TYGTYYZzF>)-^uNT%Tu>n^)z>-,zz->-nT5-ZnuzG))uuZCn)Zu<nn-K^YuY1^%>>^Knu-f<)z>uZ>K5<^YnnlZnK<<-Y^nT5#ZDTZ<f-u)YuKJ>%^>n5Y^)zY))YKKK)?<nZFnG<5Y)nhG>-^^n<G>5^5z))YuT_^%nu_z5)z>)KZ5>Znnn5LZGU5<>YYTuG^-KToG)-5TYGz)>uK=n)zuGE5%)>Yz%5^ZKKx5%Z5n)<YY>n^GnYfTGG5-)^>z>)^Tzze)Gu5q-%Y>uK^5nb<KG55Z)nZ<>Y^Tn<5YGT5G)->^nz^)n^r-Z^%G<)T%^u)Kn%M>G)Mu%KZ5n>KoG%GZuKG<TG>^G^^zn-?G>YYT>GY-TZ)TTGK^5e%)T-)0z%%uGKY%-Z)Ku5uYKnn<zYKn/<Y-uT)Gn<>^zzK)KY<z>)^^z!%)Yu>^z5T>5nn5<Z>n-55Y-nTGK-TT)G&<T^Tz<--^>BT)^-uzz%Ku-4)5ZZTuY5Y><nzT5Gu-)^Yz>u5<GY5TGKu)u^^>>K^5n>RKG5TZ)nY<>Znz)<XYGT5GY-Y^>z^Y_^-zG)%u)JZ%>>^Kn-6>KK55-ZYnu<^ZGn=55Y)T)Gu->^Kzn-(^Gz5-zuYFn%^>KCS%G>5K)%uZ>nT<nZ5nG<5Y)TY<5-^^nGk-G^5zY)Yu>G>%nuf_G%%>)KZ5>Z^%z5jZGn5<-YYT>G^YGTmGG-5^Yz^)>u^*n^-z<-zuu>>B55^ZnKy>na<5-Z^KT%+>PnZ5FYu-Yz>z>)^un-YT)GY-)^un5Gu-TzG%<uu^55K><eI5)>%n55ZZZTT<^-KTTGnY)^ZG5-^YYrK)TuTTz<uuTKZ%>>uaJ5KZ5Kc5%>_>ZzKZ<TGnKYYT%n%Y!uTGz)<u<zIG%u%Ku%%>^uK<YZ%KZ<uYunYKu-<n)<)-u^ZG-)T^.z^)-%)>TKY5>Z^<)u52)%5-TnT5nG^-nTUGG-5^nzY)>u^G0ZGuGL5%)>>K>5^Zn8G%TZ5n-<YYuT^GnY{KG5g-)^Zz>)Tunz5)G^)EY%Y>TK^%z>gKG55Z)K><>YTTn<<YGT5G)-YT)z^)n^IzG)5uYMY%>uKKn%P>GK%5)ZZn><^KznW<GY5T-GY->^^GG-c^Gz5)YuKR>%^>n5Y^)zY))YKKK)W5NKGnG<5Y)5qZnK9<nZ<>^K<5%T>zuY<Y^z-)u^YJn)T>^zz)z>%m55->%K)5nZzn^55%#T-<%Y%ZZzU-)^%}5)Zu-z5%GZuKU<z-zn)%%Z>K)5u>)>TG%Y-nY<zY>no<z<K^Kz%)K^)TZ5n>KxZ)V>)k%%K%KunbnY<K-5GZZn=<<Y>T<n%55Z5K--z^-zY)Tu<}TGGuG8T5u<nZYnd<GY55GZ-Tu<jZzn5<5-TT5zKp^)j>n*!%G&u%-u%KKn^<nZ*nG<5YKTYG>-^n}%Y-G^5z))uu>W^%n^G1Y%5>-KY5nZ^nn5_uGK%<)YZT>GT-nTzGGY)T5zY)Tu^zD)4uG!5%)uuK>%*ZnKz5GZ5n)<YZ-T^GKY8T)G5-)^Yz>YVunzD)Gu5X)%>>>K^)^>,KG55Z-nY<uY^TnZ<YGT5G)-Z^>z^)n^5zG)5u)U>)z>^Kn%9n>)Yu> Y<z>z9GnG<)Y5T)GYnzGTYuT%^5zn))uY4>^YzT)zu)z-)>u>*<%>>%ZGG><5Y)TYZGKU5GZSn%Kn5%Z-G^)TT%Tn)ZuTz>)tuKKn)<u<K-%)ZZK-5Y>{n<<nZ)>GGZY-T-nu5KT)zu)%^5KY)^uuCY%%>%=Y%Z)-^n<TZ)nK5zYY>%<%-uT%G^<K><GG->^zz))uuzmu%-u)n^z><>Y^Tn<9YGTTG)-Y^>Gn>)^8zG)5uZpY%>>^zr)u>GK%5)Z>n><^Yn=d<^Y5T-GY-u^^zK-hT5<B))uuP>)W>nE1%G>5}T5YZnn^<KZenG<5Y)TKG>-T^nG5-G^5z))YTzD^%nu&rG%5>YKY5>u>nn5NZGn%<)YZT>G^nzTiGG-5^-zY)>u^zG)ouGe5%Y=YK>5^Zn%Yu)rY%)>u^5pu%TKG<<Zu>5GKY<neG)Y%^5GZ-ZuTz^%KuT&n))>Z}5%^)YnK5TZTuzGZZ5n<<YYun%GnYGT)G%--^ZGh)<^<z)G<Z)KT%^>ZnK5nZ-KG5>%%^T<5Y-T)<)5zuGG-)T^-Tu5zunzYG%>Zp))V)TnP5->)K<GuZGn%<5Z5Tn<<-ZT<Ku-YTGuGdZ%5>)KYZGz1)GurTZ5Z>>Y>n5G^-nT,Ynn<G--^TT<XYS^ZG.)u%Y>^K>5^Zn%-><=z5u<YY>T^GnYkT>G5-)^YG^Znunzd)Gu-p)%Y>>,n)X>IK<55Z>nY<>Y^Kn<GYGT%G)-Z^>zn)nTGG))5uZ7Y%u>^Kn%e>GB<5)ZZn><KYnn*<GY5nnGY->^^zn-/^5z5))^51>%^>nrz%G>%K)5YKTn^<nZWn<<5Y)TYGn-^^nGD-5^uz))Yu>%5TGG5-GZulu)^5^>)nn5lZG%.>%nZ<nZKKG5GYunGGTz>)nu^0n)0zZ)%^<2TK^YnZnKQ5GK^%>>^K>5K)Y>K0zZ)T-<K5YT<G-Y5^>GZ)Y^TzT)z^Q=<)zuG{>5T>Yq0B^Z<Kz5z%%uZ<)YYn5GZ-)^ZG%<-^nzz-z^5Tz)z>-iz%Y)un%5YZuKY<uZ5n<<KZGZn<)Y^T>uY:>%^>nro%>>5K)5Y>^zn<nZ*nG<)Y)TYG>YnT)G,-<^5zZ)Yu>*^-n^Y#G%%>)KZ5>ZTnn%GZTn5<ZYYTnG^-nT}GG-T^)zZ)>uKIn)MuG65)->YK>5^ZnKS55Z5n)<ZY>T^GnYzTGG%-)^Y-T)^unzt)<u5b)%Y>nK^5n>bK55YZ)nY<>K<<KZTn-T)GT-Y^>z^u)<5Y)T5KT)T^n>n%G%X>GK5>na^%n>^}zz>)zu<5YYZKzK>Y%TZ<)-^Tuz>-K^Kz<-Gu%z<)5u^KK%>uGun5%><K<x-)TTT5#Y^u)G%)GT-zT--^<GG<zZ%z5)^u<nY%T><KTz<><nZ5<Z>>Tz5Z-TKGu<TZ^n^)z^Yz<)Y^%zKzK-n^n%<><Cz%G>-nT5-<NY>TGG5-)<5YZ^TGGY<T)G))K^)zzK^5n>DKG55ZnnY<>Y^K.)GYGT5G)-^^>z^)nTGz^)5u-&Y%u>^Kn%/^Gdn5)ZZn><TYnnG<GZ)nYGY-T^^Gz-+^Gz5))T<8>%T>n_<%G>5K)5Yu-n^<nZanG<5YYTYG>Y)^nG6-G^%z))Zu>W^^zuE{G%5>-KY5>Z^K<5AZGn5<YZGT>G^-n<^ZzT%G>YuTnGn--^nzZ!)>->YK>5^j))5u)U5%Z-GuZMu>fnz5Z%GTT<zYnT5<<-GT-G-)u^>aT)uu^z5%-uGb>z)ZTKu5u%K^5<%ZGn5<<Y<n<<<-<T5G%%^>nTu5kuz#n)x>KKK%K>KnK%l>zTYG>%-n-GTY-TnKz)J^uzn-nuKz>)Zu%2K%Y>Zt)%Y>-ZGnZ<5Y)TY-GKO5GZpuZGZY>)>unF^%nu!)Zu%z<%T5^>Gnn5PZG%-ZZK>5<Z^KGTpGG-5^)zY-<u^Pn)h^5Gz%)>YK>%zZnK45Gu5KY<YY>T^GnY9T<G5YYT)z>)nunz5)Gu5O)-Yu)K^%q>+K555ZZnY5^>?Tn<5YGT)G)-Y^>z^)K^dz5)5u>0Y%>>^Kn%<>GK55)ZYn><nYnnr%BY5T)GY-u^^zK-I^G--))uY!>%T>n*6%G>YK)5YZ>nn5%ZanG<5^n5^Znn^z%Y%n)^))G)Yu>X^^)G5-)^5zZ<G-Z^u)H>zjZzGZTKz5nZ5K<<GZ-n-GuY>^TGu-^T5z--G^>T)%TuujuzKYZdu5->YKZ5nZTnG<nZ<nnK--0^T<z-<^<Gb%Z^zz))zu^z5%<>TL<z->-nT5-ZnuzG))uuZ?n)Zu<nn-K^YuYzG%>>^Knu^zz%%>>?u%n>nK-5nZZY)T>GY->^^Y%TzGK-Z))uY{>%^>niY%G>5K)%>^^n^<nZqn%<5Y)TY<^Yz^nGz-G^Yz))Yu>G^)uuWC<%5>-KY5uZ^.X5>ZGn-<)Y>T>G^-nT7G>-5^-zY)Tu^En)iuGzG%)>YK>5^ZnKG5GZ5Kz<YY>T^GKYxT<G5-)Guz>)^unzz)Gu5y)zK>>K^5n>tHG55Z)nY<uY^Tn<XZ5T-G)-Y^>5T)n^.zG-)^)#Y%>>^y)%P>GK5)^Z>n><^Ynn)<GY%T)<Y->T4)%-p^Gz5)^uYhu%^>n)<%G>5K)5ZZ>n^<n>G5G<5Y)TY%G-^^nGQZGTKz))Yu>_^%n^^,G-5>>KY5>Z^nn5t>^n55Y><T>GT-nnzGG-5^)G>->u^zp),T>y5%)>Yz>%YZnKG5GZ)n))nY>nn<uYhT)G5Yu^Yz>)^unG>)Gu)A)%^>>K^5n>L<K55Z-nY<>Y^n!<aYGK<G)-Z^>zT)n^GzGY5uY*Y%^>^KK%P>-K55)u%n>5yYnnO<GYYT)%YY%^^GG-RnZz5ZnuY<>))>n!5%Gu)K))uZ>z^%5Z_n)<5>uTY5V-^Kn<--G^Yz))>u>5^%nuc)-%5>YKY5nZ^K=5 uGGz<)YuT>Gn-nnKGG-5T>zY)Ku^Wn)xu%B5Y)>KK>%zZnz-5G>zn))YZ-T^<<YSn)G5Zz^Y5>)Kunz%)GKb6)-u>>K^%K>yK%55ZunY<^Y^Kn50YGTYG)->^><u)n^BzG)5u^UY%>>^Fz%?TGk-5)Znn>)<Ynnu<Gu5zIGYYE^^<G-CTTz5Z)^zB>)G>n<^%G^-K)5YuGn^5GZ*nY<5YYTY5>-T^nG%-G^)z)Y-u>r^)-uJ/Z%5>)KY5TZ^zn5)ZGnu<)>KT>)--nm/G)-5^TzY-nu^GZ)NnGGz%)>KK>YYZnz<5GZ55u<YYKT^<%Y9T5G5Z)N%z>-GunzG)GT<x)%YuGK^%)>BKG55ZZnY)>Z>Tn<YYGKuG)>K^>5^Y<^?z>)5^>yY-%>^Gn)u>GK^5)T5n>%KYnnL5ZY5T^GYYG^^G{-FnGG<))uK*>%n>nzK%G>5K)5Y><n^<nZRn%<5u)nKG>Y%^n5--GKYz)ZYK5&^)-uPz)%5^zKY->>%nn5ZZGGg<)>uT>G^Z5T+GZ-5^KzY)^u^Gn)GuGi^%)>>K>)uZnKm%zZ5KP<YY>T^<zY4*GGZ-)TGz>Z<unz))Gn5zG%Yu5K^)G>l!T55^)nZ<>Z)Tn)^YGK-G)-YGKz^-)^.z^)5uY1Y->^zKn%Z>GK-5)unn><^Ynn1<TY5T)GY-u^^5n-G^GzK))TK8>Y)>nw/u->5KK5Y>%n^5oZkeG<%Y)nGG>-T^n5u-G^5Gn)Y^)2^%nuL )%5T)z55>>Ynn)-ZGz^<)uYnTG^Y>TI5n-5^-zYZ>uTVn)^uGz-%)^<K>-^u>KV5nZ5R)<YuTT^GnZoTGGn-)T5z>)Tun<U--u5z.%Y>TK^-G>BKG55Z)K5<>Y^Tn<GYGe5<5-YT)z^Z%^x5-)5uYGT%>uZKn)z>GK55)>YG<<^Z>n15zY5n<GY->nzzn->^GGC))uZq>-^uZx6%^>5KZ5Yunn^<nZ%nG5,Y)TYG>-n^n%qY-^
+--credits
+
+local player = game.Players.LocalPlayer
+
+local OrionLib =
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({Name = "Duke Shadow", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+--[[
+Name = <string> - The name of the UI.
+HidePremium = <bool> - Whether or not the user details shows Premium status or not.
+SaveConfig = <bool> - Toggles the config saving in the UI.
+ConfigFolder = <string> - The name of the folder where the configs are saved.
+IntroEnabled = <bool> - Whether or not to show the intro animation.
+IntroText = <string> - Text to show in the intro animation.
+IntroIcon = <string> - URL to the image you want to use in the intro animation.
+Icon = <string> - URL to the image you want displayed on the window.
+CloseCallback = <function> - Function to execute when the window is closed.
+]]
+
+local Tab = Window:MakeTab({
+	Name = "Main",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Tab2 = Window:MakeTab({
+	Name = "Anti Locks",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+local Tab3 = Window:MakeTab({
+	Name = "DaHood Scripts",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+local Tab4 = Window:MakeTab({
+	Name = "Random Scripts",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+local Tab5 = Window:MakeTab({
+	Name = "Locks From Other Persons",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+local Tab6 = Window:MakeTab({
+	Name = "VASCAL",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+local Section = Tab:AddSection({
+	Name = "Locks"
+})
+
+--[[
+Name = <string> - The name of the section.
+]]
+
+OrionLib:MakeNotification({
+	Name = "Duke Shadow",
+	Content = "Notification content... Loaded",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+  })
+
+--[[
+Title = <string> - The title of the notification.
+Content = <string> - The content of the notification.
+Image = <string> - The icon of the notification.
+Time = <number> - The duration of the notfication.
+]]
+
+Tab:AddButton({
+	Name = "Camlock",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/CarlDaLocker/AntiLock/main/Duke%20Shadow%20camlock"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "Silent Aim",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/CarlDaLocker/AntiLock/main/DUKE%20SHADOW%20SILENT"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "Aimlock",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/CarlDaLocker/AntiLock/main/Lock%20carl"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab2:AddButton({
+	Name = "SkyAntiLock (Z to On)",
+	Callback = function()
+      		loadstring(game:HttpGet(('https://raw.githubusercontent.com/AvianProjects/Dahood/main/AntilockerV2'),true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab3:AddButton({
+	Name = "Swagmode",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab3:AddButton({
+	Name = "Nukerhub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab4:AddButton({
+	Name = "Q tool",
+	Callback = function()
+      		--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+--credits to thatsnotmatt#2602
+getgenv().keytoclick = "Q"
+tool = Instance.new("Tool")
+tool.RequiresHandle = false
+tool.Name = keytoclick
+tool.Activated:connect(function()
+    local vim = game:service("VirtualInputManager")
+vim:SendKeyEvent(true, keytoclick, false, game)
+end)
+tool.Parent = game.Players.LocalPlayer.Backpack
+wait(0.2)
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
+local Notify = AkaliNotif.Notify;
+Notify({
+Description = "thatsnotmatt#2602";
+Title = "zzz#0001";
+Duration = 10;
+});
+mouse = game.Players.LocalPlayer:GetMouse()
+
+
+
+tool = Instance.new("Tool")
+tool.RequiresHandle = false
+tool.Name = "teleport"
+tool.Activated:connect(function()
+local pos = mouse.Hit+Vector3.new(0,2.5,0)
+pos = CFrame.new(pos.X,pos.Y,pos.Z)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
+end)
+tool.Parent = game.Players.LocalPlayer.Backpack
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab4:AddButton({
+	Name = "Zombie Animation",
+	Callback = function()
+      		while true do
+local Animate = game.Players.LocalPlayer.Character.Animate
+Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=616163682"
+game.Players.LocalPlayer.Character.Humanoid.Jump = false
+wait(1)
+end
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab4:AddButton({
+	Name = "Infinite Yeild",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/ttwizz/infiniteyield/master/source.lua", true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab4:AddButton({
+	Name = "Keyboard",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab4:AddButton({
+	Name = "Rightclick",
+	Callback = function()
+      		script:loadstring(game:HttpGet('https://raw.githubusercontent.com/BalligusapoTT/BalligusapoTT/main/Leftclickballi'))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab4:AddButton({
+	Name = "Random Ass Silentaim",
+	Callback = function()
+      		script:loadstring(game:HttpGet("https://raw.githubusercontent.com/Ryzzchips/SubtoRyzzchips/main/Ryzzchips%20Silent%20aim.", true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab5:AddButton({
+	Name = "Wowo Cam V2",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Wowo-Pogi/Wowo-v2-op/main/Wowov2nanaman"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab5:AddButton({
+	Name = "Rainbow Smite Aimlok",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox-Scripts/main/Rainbow%20Sunshine%20Aimlock.lua", true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab5:AddButton({
+	Name = "Shiftlock Macro",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproootest/Permanent-Shift-Lock-Alt/alt/PermShiftlockAlt'))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab6:AddButton({
+	Name = "Vascal Cam",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/VascalLock/main/README.md"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab6:AddButton({
+	Name = "Vascal Silent",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/VascalSilentaim/main/README.md"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab6:AddButton({
+	Name = "Vascal Aimlock",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/Sub-to-vascal/main/Vascal-Circle-DotXd"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab6:AddButton({
+	Name = "Vascal Streamable",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/Sub-to-vascal/main/Vascal-Streamable"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab6:AddButton({
+	Name = "Vascal Fake Macro",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/Sub-to-vascal/main/Vascal-speed-tool"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Bind:Set(Enum.KeyCode.C)
+
+OrionLib:Init()
